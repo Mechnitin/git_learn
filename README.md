@@ -1,4 +1,4 @@
 # git_learn
 This is first repository
 <br>
-Nitin Gupta(test)
+<b> Nitin Gupta</b>
